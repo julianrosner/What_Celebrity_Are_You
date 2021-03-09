@@ -9,7 +9,7 @@ from TrainUtil import accuracy
 
 if __name__ == '__main__':
     # 'SMALL', 'MEDIUM', or 'LARGE'
-    DATA_SET_SIZE = 'MEDIUM'
+    DATA_SET_SIZE = 'SMALL'
     SHOW_BATCH = False
     SEED = False
 
