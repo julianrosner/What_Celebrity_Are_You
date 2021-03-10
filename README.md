@@ -64,4 +64,4 @@ In the above, my model has found a convincing celebrity match from a painting of
 <div align="center">
   <img src="https://github.com//julianrosner//What_Celebrity_Are_You//blob//main//figs//small_anakin.jpg?raw=true">
 </div>
-In the above, I asked my model to find a match for a stylized cgi model of the Star Wars character Anakin Skywalker. The celebrity match found by my model is Jake Lloyd, an actor who potrayed Anakin Skywalker in the character's debut appearance. My model managing to find this connection is remarkable to me.
+In the above, I asked my model to find a match for a stylized cgi model of the Star Wars character Anakin Skywalker. The celebrity match found by my model is Jake Lloyd, the actor who potrayed Anakin in the character's debut appearance. My model managing to find this connection is remarkable to me.
