@@ -4,8 +4,9 @@
 What_Celeberity_Are_You brings users the fun of discovering what celebrity they, their friends, or their favorite fictional characters most resemble.
 
 
-
-<img align="center" src="https://github.com//julianrosner//What_Celebrity_Are_You//blob//main//figs//medium_me.jpg?raw=true">
+<div align="center">
+  <img src="https://github.com//julianrosner//What_Celebrity_Are_You//blob//main//figs//medium_me.jpg?raw=true">
+</div>
 
 
 
