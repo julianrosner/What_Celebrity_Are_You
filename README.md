@@ -45,14 +45,15 @@ Let's take a look at some celebrity face matches found by my model:
 </div>
 
 <div align="center">
-  <img src="https://github.com/julianrosner/What_Celebrity_Are_You/blob/main/figs/medium_paul.jpg?raw=true">
-  <p>The man on the left of this image is my father. Note that we both match to the same celebrity. The model has noticed the resmebelance between us.</p>
+  <img src="https://github.com/julianrosner/What_Celebrity_Are_You/blob/main/figs/medium_paul1.jpg?raw=true">
+  
 </div>
+The man on the left of this image is my father. Note that we both match to the same celebrity. The model has noticed the resmebelance between us.
 
 <div align="center">
   <img src="https://github.com/julianrosner/What_Celebrity_Are_You/blob/main/figs/medium_paul2.jpg?raw=true">
-  <p>This match and the one preceding demonstrate the resistance to temporary appearance-altering features that I mentioned earlier, a beard in this case.</p>
 </div>
+This match and the one preceding demonstrate the resistance to temporary appearance-altering features that I mentioned earlier, a beard in this case.
 
 
 
