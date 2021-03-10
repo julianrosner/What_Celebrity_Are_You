@@ -74,6 +74,3 @@ This is my favorite example. In the above, I asked my network to find a match fo
 Overall, I am very happy with my small and medium dataset trained convolutional neural nets. From a mathematical perspective, most human faces are quite similar to each other, so the fact that my medium dataset model was able to achieve a testing accuracy around 50% on a set of 1000 different identities feels like a real achievement. Additionally, I am pleased with the models' ordinary face to celebrity matching ability as shown in the images above, and the models’ robustness to the hairstyles, beards, and ages, etc. of its subjects. The only adjustment I would make if I had more time would be to look into the issue of the large dataset trained nn's inaccuracy, but with training it for even a couple of epochs taking several hours, any feedback to adjustments comes painfully slowly. The medium dataset trained conv. nn still delivers great results though, so I consider the project a complete success.
 
 ## Thanks for Reading
-<div align="center">
-  <img src="https://github.com/julianrosner/What_Celebrity_Are_You/blob/main/figs/small_joseph.jpg?raw=true">
-</div>
