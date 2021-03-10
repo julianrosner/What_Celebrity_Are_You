@@ -3,8 +3,15 @@
 
 What_Celeberity_Are_You brings users the fun of discovering what celebrity they, their friends, or their favorite fictional characters most resemble.
 
+
+<div class="cropped" style="overflow: hidden; margin: -10px 0px 0px -180px;">
+  <img
+   src="https://hips.hearstapps.com/ghk.h-cdn.co/assets/17/30/2560x1280/landscape-1500925839-golden-retriever-puppy.jpg?resize=480:*"
+    >
+</div>
+
 <p align="center">
-  <img  height="300" style="overflow: hidden; margin: -10px 0px 0px -180px;" src="https://github.com/julianrosner/What_Celebrity_Are_You/blob/main/figs/medium_me.jpg?raw=true&resize=480:*">
+  <img  height="300"  src="https://github.com/julianrosner/What_Celebrity_Are_You/blob/main/figs/medium_me.jpg?raw=true&resize=480:*">
 </p>
 
 This project began life as a piece of facial recognition software trained on a database of celebrities. The one day while I was waiting for the network to train I thought "If I ask it to predict which celebrity I am, wouldn't it return the celebrity I most resemble? That sounds fun." Very pleased with the results, I started asking the learner to predict on more and more of my friends and family until I realized this little distraction was too entertaining to pass up, and the course of the entire project was changed to accomodate. 
