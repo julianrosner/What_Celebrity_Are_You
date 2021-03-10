@@ -58,7 +58,7 @@ In the above image, the man on the left is my father. Note that he and I both ma
 <div align="center">
   <img src="https://github.com/julianrosner/What_Celebrity_Are_You/blob/main/figs/medium_paul2.jpg?raw=true">
 </div>
-The above match and the one preceding it together demonstrate a resistance to temporary appearance-altering features that I mentioned earlier, a beard in this case.
+The above match and the one preceding it together demonstrate a resistance to temporary appearance-altering features, a beard in this case.
 
 <div align="center">
   <img src="https://github.com//julianrosner//What_Celebrity_Are_You//blob//main//figs//medium_lisa.jpg?raw=true">
