@@ -6,7 +6,7 @@ What_Celeberity_Are_You brings users the fun of discovering what celebrity they,
 
 <div align="center">
   <img src="https://github.com//julianrosner//What_Celebrity_Are_You//blob//main//figs//medium_me.jpg?raw=true">
-  <font color="gray"><p style="color:#808080">My match and me</p></font>
+  <p>me and my match</p>
 </div>
 
 
