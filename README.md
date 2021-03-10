@@ -3,6 +3,10 @@
 
 What_Celeberity_Are_You brings users the fun of discovering what celebrity they, their friends, or their favorite fictional characters most resemble.
 
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
 ![Me_Example](https://github.com/julianrosner/What_Celebrity_Are_You/blob/main/figs/medium_me.jpg?raw=true)
 Pictured: My match and me
 
