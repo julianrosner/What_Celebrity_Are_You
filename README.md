@@ -40,7 +40,7 @@ Let's take a look at some celebrity face matches found by my model and see what 
   <p>me and my match</p>
 </div>
 <div align="center">
-  <img src="https://github.com//julianrosner//What_Celebrity_Are_You//blob//main//figs//medium_jason.jpg?raw=true">
+  <img src="https://github.com//julianrosner//What_Celebrity_Are_You//blob//main//figs//copy.jpg?raw=true">
   <p>me and my match</p>
 </div>
 
