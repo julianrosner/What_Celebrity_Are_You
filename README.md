@@ -72,3 +72,9 @@ In the above, I asked my model to find a match for a stylized cgi model of the S
 
 ## Conclusions
 Overall, I am very happy with my small and medium dataset convultional neural nets. From a mathematical perspective, most human faces are quite similar to each other, so the fact that my medium dataset model was able to achieve a testing accuracy around 50% on a set of 1000 different identities feels like a real achievment. Additionally, I am very pleased with the models' celebrity matching ability as shown in the images above, and their robustness to the hair style, beard, and age of its subjects. The only adjustment I might make if I had more time is to look into the issue of the large dataset nn's innaccuaracy, but with training it for even a couple of epochs taking several hours any feedback to adjustments comes painfully slowly. The medium dataset nn still delivers great results though, so I consider the project a complete success.
+
+
+## Thanks for Reading
+<div align="center">
+  <img src="https://github.com/julianrosner/What_Celebrity_Are_You/blob/main/figs/small_joseph.jpg?raw=true">
+</div>
