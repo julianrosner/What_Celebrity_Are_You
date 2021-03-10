@@ -5,7 +5,7 @@ What_Celeberity_Are_You brings users the fun of discovering what celebrity they,
 
 
 <div align="center" class="cropped" style="width:1px;">
-  <img style="width: 1px;height: 1px;"
+  <img style="margin: -100px -100px -100px -180px"
    src="https://github.com//julianrosner//What_Celebrity_Are_You//blob//main//figs//medium_me.jpg?raw=true"
     >
 </div>
