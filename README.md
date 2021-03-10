@@ -31,6 +31,19 @@ Results
 I think anyone would agree that a tool which tells people what celebrities they look like, if programmed well, should match unseen pictures of known celebrities to themselves. That is to say, the testing accuracy of this tool on known celebrities is a good measure of how well this tool finds matches for non-celebrities. The testing accuracy for the nn trained on the small dataset tends to achieve around 82% test accuracy. The medium dataset nn gets around 51%. The large dataset nn gets around 1%. The dramatic drop off between medium and large can be explained by the fact that I noticed early on that different network achitectures optimized test accuracy for different datasets. Because the medium dataset nn was already very exprrssive with its 1000 known identities and the large dataset nn took more than 24 hours to train on my laptop, I chose to optimize my architecture for the medium dataset, so that's where all the time and attention and fine tuning went. You may have noticed that the small datadet nn was quite accuracte too, but only knowing 100 celebrities makes its predictions very unexpressive meaning there are many faces for which it can't find a good match. The medium dataset nn is in the perfect goldilocks zone, however. 
 
 Let's take a look at some celebrity face matches found by my model and see what we can learn from them.
+<div align="center">
+  <img src="https://github.com/julianrosner/What_Celebrity_Are_You/blob/main/figs/medium_mom.jpg?raw=true">
+  <p>me and my match</p>
+</div>
+<div align="center">
+  <img src="https://github.com//julianrosner//What_Celebrity_Are_You//blob//main//figs//medium_natalie.jpg?raw=true">
+  <p>me and my match</p>
+</div>
+<div align="center">
+  <img src="https://github.com//julianrosner//What_Celebrity_Are_You//blob//main//figs//medium_jason.jpg?raw=true">
+  <p>me and my match</p>
+</div>
+
 
   test accuracy on actual celebs
 ![Anakin_Example](https://github.com//julianrosner//What_Celebrity_Are_You//blob//main//figs//small_anakin.jpg?raw=true)
