@@ -5,7 +5,7 @@ What_Celeberity_Are_You brings users the fun of discovering what celebrity they,
 
 
 
-<img align="center"src="https://github.com//julianrosner//What_Celebrity_Are_You//blob//main//figs//medium_me.jpg?raw=true">
+<img align="center" src="https://github.com//julianrosner//What_Celebrity_Are_You//blob//main//figs//medium_me.jpg?raw=true">
 
 
 
