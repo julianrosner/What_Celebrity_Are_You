@@ -44,19 +44,24 @@ Let's take a look at some celebrity face matches found by my model:
   <img src="https://github.com/julianrosner/What_Celebrity_Are_You/blob/main/figs/medium_mom.jpg?raw=true">
 </div>
 
+Now let's look at some particular examples that demonstrate noteworthy features of the model:
+
 <div align="center">
   <img src="https://github.com/julianrosner/What_Celebrity_Are_You/blob/main/figs/medium_paul1.jpg?raw=true">
-  
 </div>
 The man on the left of the above image is my father. Note that we both match to the same celebrity. The model has noticed the resmebelance between us.
 
 <div align="center">
   <img src="https://github.com/julianrosner/What_Celebrity_Are_You/blob/main/figs/medium_paul2.jpg?raw=true">
 </div>
-This match and the one preceding demonstrate the resistance to temporary appearance-altering features that I mentioned earlier, a beard in this case.
+The above match and the one preceding demonstrate the resistance to temporary appearance-altering features that I mentioned earlier, a beard in this case.
 
+<div align="center">
+  <img src="https://github.com//julianrosner//What_Celebrity_Are_You//blob//main//figs//medium_lisa.jpg?raw=true">
+</div>
+In the above, my model has found a convincing celebrity match from a painting of a woman. This shows my network doesn't just work well on photographs.
 
-
-
-  test accuracy on actual celebs
-![Anakin_Example](https://github.com//julianrosner//What_Celebrity_Are_You//blob//main//figs//small_anakin.jpg?raw=true)
+<div align="center">
+  <img src="https://github.com//julianrosner//What_Celebrity_Are_You//blob//main//figs//small_anakin.jpg?raw=true">
+</div>
+In the above, I asked my model to find a match for a stylized cgi model of the Star Wars character Anakin Skywalker. The celebrity match found by my model is Jake Lloyd, an actor who potrayed Anakin Skywalker in the character's debut appearance. My model managing to find this connection is remarkable to me.
