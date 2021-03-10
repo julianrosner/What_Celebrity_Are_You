@@ -1,5 +1,5 @@
 # What Celebrity Are You?
-## by Julian Rosner
+### by Julian Rosner
 
 What_Celeberity_Are_You brings users the fun of discovering what celebrity they, their friends, or their favorite fictional characters most resemble.
 
@@ -49,7 +49,7 @@ Now let's look at some particular examples that demonstrate noteworthy features 
 <div align="center">
   <img src="https://github.com/julianrosner/What_Celebrity_Are_You/blob/main/figs/medium_paul1.jpg?raw=true">
 </div>
-The man on the left of the above image is my father. Note that we both match to the same celebrity. The model has noticed the resmebelance between us.
+The man on the left of the above image is my father. Note that he and I both match to the same celebrity. The model has noticed the resmebelance between us.
 
 <div align="center">
   <img src="https://github.com/julianrosner/What_Celebrity_Are_You/blob/main/figs/medium_paul2.jpg?raw=true">
@@ -65,3 +65,6 @@ In the above, my model has found a convincing celebrity match from a painting of
   <img src="https://github.com//julianrosner//What_Celebrity_Are_You//blob//main//figs//small_anakin.jpg?raw=true">
 </div>
 In the above, I asked my model to find a match for a stylized cgi model of the Star Wars character Anakin Skywalker. The celebrity match found by my model is Jake Lloyd, the actor who potrayed Anakin in the character's debut appearance. My model managing to find this connection is remarkable to me.
+
+##Conclusions
+Overall, I am very happy with my small and medium dataset convultional neural nets. From a mathematical perspective, most human faces are quite similar to each other, so the fact that my medium dataset model was able to achieve a testing accuracy around 50% on a set of 1000 different identities feels like a real achievment. Additionally, I am very pleased with the models' celebrity matching ability as shown in the images above, and their robustness to the hair style, beard, and age of its subjects. The only adjustment I might make if I had more time is to look into the issue of the large dataset nn's innaccuaracy, but with training it for even a couple of epochs taking several hours any feedback to adjustments comes painfully slowly. The medium dataset nn still delivers great results though, so I consider the project a complete success.
