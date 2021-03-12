@@ -5,7 +5,7 @@ What_Celeberity_Are_You brings you the fun of discovering what celebrity you, yo
 
 [![IMAGE ALT TEXT HERE](https://upload.wikimedia.org/wikipedia/commons/d/de/Nokota_Horses_cropped.jpg](https://homes.cs.washington.edu/~rosner98/vid2.mp4)
 
-<a href="https://homes.cs.washington.edu/~rosner98/vid2.mp4"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Nokota_Horses_cropped.jpg" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+<a href="https://homes.cs.washington.edu/~rosner98/explanation_and_demo.mp4"><img src="https://homes.cs.washington.edu/~rosner98/thumbnail.jpg" alt="HTML tutorial" style="width:42px;height:42px;"></a>
 
 <div align="center">
   <video width="320" height="240" controls>
