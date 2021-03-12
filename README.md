@@ -6,7 +6,7 @@ What_Celeberity_Are_You brings you the fun of discovering what celebrity you, yo
 
 <div align="center">
   <video width="320" height="240" controls>
-    <source src="https://github.com//julianrosner//What_Celebrity_Are_You//blob//main//explanation_and_demo.mp4" type="video/mp4">
+    <source src="https://homes.cs.washington.edu//~rosner98//vid2.mp4" type="video/mp4">
   Your browser does not support the video tag.
   </video>
 </div>
