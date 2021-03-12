@@ -3,6 +3,14 @@
 
 What_Celeberity_Are_You brings you the fun of discovering what celebrity you, your friends, or your favorite fictional characters most resemble.
 
+
+<div align="center">
+  <video width="320" height="240" controls>
+    <source src="https://github.com//julianrosner//What_Celebrity_Are_You//blob//main//explanation_and_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+  </video>
+</div>
+
 <div align="center">
   <img src="https://github.com//julianrosner//What_Celebrity_Are_You//blob//main//figs//medium_me.jpg?raw=true">
   <p>me and my match</p>
