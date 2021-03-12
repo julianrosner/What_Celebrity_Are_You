@@ -4,7 +4,7 @@
 What_Celeberity_Are_You brings you the fun of discovering what celebrity you, your friends, or your favorite fictional characters most resemble.
 
 <div align="center">
-<a target="_blank" href="https://homes.cs.washington.edu/~rosner98/explanation_and_demo.mp4"><img src="https://homes.cs.washington.edu/~rosner98/thumbnail.jpg" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+<a href="https://homes.cs.washington.edu/~rosner98/explanation_and_demo.mp4" target="_blank"><img src="https://homes.cs.washington.edu/~rosner98/thumbnail.jpg" alt="HTML tutorial" style="width:42px;height:42px;"></a>
 </div>
 
 ## Problem
