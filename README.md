@@ -3,7 +3,7 @@
 
 What_Celeberity_Are_You brings you the fun of discovering what celebrity you, your friends, or your favorite fictional characters most resemble.
 
-[![IMAGE ALT TEXT HERE](https://homes.cs.washington.edu//~rosner98//vid2.mp4)
+[![IMAGE ALT TEXT HERE](https://upload.wikimedia.org/wikipedia/commons/d/de/Nokota_Horses_cropped.jpg](https://homes.cs.washington.edu/~rosner98/vid2.mp4)
 
 <div align="center">
   <video width="320" height="240" controls>
